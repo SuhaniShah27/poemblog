@@ -1,6 +1,7 @@
 # Suhani's Blog
 ## Untitiled poem
 
+<p align="center">
 The moving day had finally arrived,
 The truck was already there,
 But my boxes were only half packed,
@@ -35,3 +36,4 @@ Planning to complete my packing.
 That’s when I saw that somebody left the gate open,
 I ran away,
 And never looked back.
+</p>
