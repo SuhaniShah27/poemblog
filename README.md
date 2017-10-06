@@ -2,74 +2,50 @@
 ## Untitiled poem
 
 <p align="center">
+  The moving day had finally arrived, <br>
+  The truck was already there, <br>
+  But my boxes were only half packed, <br>
+  I knew it was going to be hard, but I strived.
+</p>
 
-The moving day had finally arrived,
+<p align="center">
+  Looking outside the window,<br>
+  I thought to myself,<br>
+  Why is it so/such that I have to change?<br>
+  Because I think, I think I have already stepped outside the blow.<br>
+</p>
 
-The truck was already there,
+<p align="center">
+  It’s true that we live in a society of approval,<br>
+  But no one seems to care about the things that really matter,<br>
+  Why is it so/such that I have to change?<br>
+  Because it seems to me that the world’s abysmal.<br>
+</p>
 
-But my boxes were only half packed,
+<p align="center">
+  All I was looking for was evasion,<br>
+  All my life I stumbled in search of meaning.<br>
+  Why is it so/such that I have to change?<br>
+  But soon I realized, not everything is a math equation.<br>
+</p>
 
-I knew it was going to be hard, but I strived.
+<p align="center">
+  I was trying to climb out of that binary web,<br>
+  Everywhere I look,<br>
+  There are ones and zeros.<br>
+  For the first time in my life,<br>
+  I wanted to change.<br>
+</p>
 
+<p align="center">
+  Saw across the room where the sunlight aimed,<br>
+  There laid my boxes, only half packed,<br>
+  Took a step closer,<br>
+  Planning to complete my packing.<br>
+</p>
 
-
-Looking outside the window,
-
-I thought to myself,
-
-Why is it so/such that I have to change?
-
-Because I think, I think I have already stepped outside the blow.
-
-
-
-It’s true that we live in a society of approval,
-
-But no one seems to care about the things that really matter,
-
-Why is it so/such that I have to change?
-
-Because it seems to me that the world’s abysmal.
-
-
-
-All I was looking for was evasion,
-
-All my life I stumbled in search of meaning.
-
-Why is it so/such that I have to change?
-
-But soon I realized, not everything is a math equation.
-
-
-
-I was trying to climb out of that binary web,
-
-Everywhere I look,
-
-There are ones and zeros.
-
-For the first time in my life,
-
-I wanted to change.
-
-
-
-Saw across the room where the sunlight aimed,
-
-There laid my boxes, only half packed,
-
-Took a step closer,
-
-Planning to complete my packing.
-
-
-
-That’s when I saw that somebody left the gate open,
-
-I ran away,
-
-And never looked back.
-
-
+<p align="center">
+  That’s when I saw that somebody left the gate open,<br>
+  I ran away,<br>
+  And never looked back.<br>
 </p>
