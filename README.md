@@ -39,7 +39,7 @@
 
 <p align="center">
   Saw across the room where the sunlight aimed,<br>
-  There laid my boxes, only half packed,<br>
+  There lay my boxes, only half packed,<br>
   Took a step closer,<br>
   Planning to complete my packing.<br>
 </p>
